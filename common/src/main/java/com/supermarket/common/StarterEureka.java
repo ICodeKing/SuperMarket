@@ -12,6 +12,9 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 @EnableCircuitBreaker
 public class StarterEureka {
+
+
+
     public static void main(String[] args) {
         SpringApplication.run(StarterEureka.class, args);
     }
