@@ -19,6 +19,9 @@ public class ImageController {
     @Autowired
     private ImageService imageService = null;
 
+
+//    测试
+
     /**
      * 上传图片
      * @param pic 图片
