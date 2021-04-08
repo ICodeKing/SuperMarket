@@ -12,6 +12,8 @@ import lombok.Setter;
 public class SupermarketResult {
 
     // 定义jackson对象
+
+
     private static final ObjectMapper MAPPER = new ObjectMapper();
     //查询数据总数量
     private Integer total;
