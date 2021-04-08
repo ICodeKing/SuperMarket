@@ -7,6 +7,8 @@ import lombok.Setter;
 @Getter
 public class SysResult {
     //表示状态码的数字
+
+
     private Integer status;
     //携带详细信息的字符串
     private String msg;
