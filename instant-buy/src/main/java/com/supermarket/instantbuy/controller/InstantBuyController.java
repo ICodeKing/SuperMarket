@@ -19,6 +19,9 @@ public class InstantBuyController {
     @Autowired
     private InstantBuyService instantBuyService = null;
 
+
+    //正常工作分支，解決正常需求
+
     /**
      * 查询所有秒杀商品
      *
